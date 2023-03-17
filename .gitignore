@@ -1,2 +1,3 @@
-# Environments
 venv/
+.ipynb_checkpoints
+.tif

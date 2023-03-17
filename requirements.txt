@@ -1,0 +1,8 @@
+numpy
+rasterio
+notebook
+pyproj
+
+geopandas
+shapely
+seaborn

@@ -1,0 +1,21 @@
+{ 
+    "type": "Feature",
+    "properties": { 
+        "id": 1, 
+        "name": "Pin4",
+        "soil": {
+            "clay": 0.1250,
+            "sand": 0.1450,
+            "density": 1222
+        },
+        "soil_moisture": 3193,
+        "coordinates": {
+	        "lat": 49.995266264307425,
+	        "lng": 30.184082372130998
+        } 
+    }, 
+    "geometry": { 
+        "type": "Point", 
+        "coordinates": [ 30.184082372130998, 49.995266264307425 ]
+    } 
+}
